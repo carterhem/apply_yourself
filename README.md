@@ -1,26 +1,27 @@
-# README
+# ApplyYourself
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## About
+ApplyYourself is a Ruby on Rails application to help organize job seekers by creating a simple structure to hold relevant information.
 
-To Run the Server: `bin/rails s -b 0.0.0.0`
+## Dependencies
+Ruby 3.1.0
+Rails v 6.1.5
+SQLite3
+Puma
+Sass-rails
+Bulma-rails
+Webpacker
+font-awesome-rails
 
-Things you may want to cover:
 
-* Ruby version
+## Getting Started!
+Install dependencies (using either `npm install` or `yarn install` based on what you have setup)
+Migrate the database: rails db:migrate
+Install webpacker: rails webpacker:install
+To Run the Server: `bin/rails s -b 0.0.0.0` or `rails s`
 
-* System dependencies
+## Description
 
-* Configuration
+## Troubleshooting
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
