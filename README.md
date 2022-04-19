@@ -31,7 +31,7 @@ ApplyYourself is a Ruby on Rails application to help organize job seekers by cre
 
 !["Screenshot of Upcoming Interview"](https://github.com/carterhem/apply_yourself/blob/master/docs/upcoming-interview.png?raw=true)
 
-!["Screenshot of Upcoming Interview"]()
+!["Screenshot of Upcoming Interview"](https://github.com/carterhem/apply_yourself/blob/master/docs/past-interview.png?raw=true)
 
 !["Screenshot of Edit Interview"](https://github.com/carterhem/apply_yourself/blob/master/docs/edit-interview.png?raw=true)
 
