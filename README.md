@@ -4,8 +4,8 @@
 ApplyYourself is a Ruby on Rails application to help organize job seekers by creating a simple structure to hold relevant information.
 
 ## Dependencies
-* Ruby 3.1.0 [Rails Guide](https://guides.rubyonrails.org/v6.1.5/)
-* Rails v 6.1.5
+* Ruby 3.1.0 
+* Rails v 6.1.5 [Rails Guide](https://guides.rubyonrails.org/v6.1.5/)
 * SQLite3
 * Puma
 * Sass-rails
