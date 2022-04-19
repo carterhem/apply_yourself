@@ -4,7 +4,7 @@
 ApplyYourself is a Ruby on Rails application to help organize job seekers by creating a simple structure to hold relevant information.
 
 ## Dependencies
-* Ruby 3.1.0 - add rails guide
+* Ruby 3.1.0 [Rails Guide](https://guides.rubyonrails.org/v6.1.5/)
 * Rails v 6.1.5
 * SQLite3
 * Puma
@@ -16,8 +16,8 @@ ApplyYourself is a Ruby on Rails application to help organize job seekers by cre
 
 ## Getting Started!
 1. Install dependencies (using either `npm install` or `yarn install` based on what you have setup)
-2. Migrate the database: rails db:migrate
-3. Install webpacker: rails webpacker:install
+2. Migrate the database: `rails db:migrate`
+3. Install webpacker: `rails webpacker:install`
 4. To Run the Server: `bin/rails s -b 0.0.0.0` or `rails s`
 
 
